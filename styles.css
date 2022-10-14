@@ -1,0 +1,17 @@
+body {
+	/* background-color: #8D8741; */
+	background-color: #b1a296;
+}
+section {
+    display: flex;
+    align-items: center;
+}
+#titleBar{
+    padding: 5%;
+}
+#introParagraph{
+    padding: 5%;
+}
+.text{
+	color: black;
+}
