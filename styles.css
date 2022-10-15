@@ -6,6 +6,13 @@ section {
     display: flex;
     align-items: center;
 }
+header {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 #titleBar{
     padding: 5%;
 }
@@ -14,4 +21,14 @@ section {
 }
 .text{
 	color: black;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+.navlink {
+    padding: 5%;
+    list-style: none;
+    margin: 0;
 }
